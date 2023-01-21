@@ -8,16 +8,28 @@
 ---
 
 ## About Team
-PLACEHOLDER
+#### TEP
+- placeholder
+
+#### MEP
+- placeholder
+
+#### PN
+- placeholder
+
+#### SMEP
+- placholder
+
+---
 
 ## Placeholder
-placeholder
+- placeholder
 
 ## Placeholder
-placeholder
+- placeholder
 
 ## Placeholder
-placeholder
+- placeholder
 
 ---
 <p align="center">Create by WrPower Team</p>
