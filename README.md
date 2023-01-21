@@ -32,4 +32,4 @@
 - placeholder
 
 ---
-<p align="center">Create by WrPower Team</p>
+<p align="center">Create with ❤️ by WrPower Team</p>
