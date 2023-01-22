@@ -9,16 +9,16 @@
 
 ## About Team
 #### TEP
-- placeholder
+- technology excellence program
 
 #### MEP
-- placeholder
+- gifted math
 
 #### PN
-- placeholder
+- pre engineering program
 
 #### SMEP
-- placholder
+- science math excellence program
 
 ---
 <p align="center">Create with ❤️ by WrPower Team</p>
