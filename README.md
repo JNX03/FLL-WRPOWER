@@ -21,15 +21,4 @@
 - placholder
 
 ---
-
-## Placeholder
-- placeholder
-
-## Placeholder
-- placeholder
-
-## Placeholder
-- placeholder
-
----
 <p align="center">Create with ❤️ by WrPower Team</p>
