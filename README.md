@@ -21,4 +21,4 @@
 - science math excellence program
 
 ---
-<p align="center">Create with ❤️ by WrPower Team</p>
+<p align="center">Create with ❤️ by WrPower Team | cc wrpoer 2022-2023</p>
