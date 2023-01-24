@@ -11,10 +11,10 @@
 #### TEP
 - technology excellence program
 
-#### MEP
+#### Gm
 - gifted math
 
-#### PN
+#### Pre-En
 - pre engineering program
 
 #### SMEP
