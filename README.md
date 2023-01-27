@@ -25,7 +25,6 @@ Wait list
 
 - Enginearing notebooks
 - innovation
-- Image
 - Etc.
 
 ---
