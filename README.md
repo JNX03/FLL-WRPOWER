@@ -27,6 +27,10 @@ Wait list
 - innovation
 - Etc.
 
+Dev
+
+- Jn03   (Jean)
+- Suckit (khet)
 ---
 <p align="center">Create with ❤️ by WrPower Team | cc wrpoer 2022-2023</p>
 <p align="center">Project archive on 4/2/23 | All timer and some systhem will be remove/archive - Jn03 </p>
