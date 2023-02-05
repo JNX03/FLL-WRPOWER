@@ -32,29 +32,39 @@
 	<link rel="stylesheet" href="assets/css/vlt-main.min.css">
 	<link rel="stylesheet" href="assets/css/custom.css">
 </head>
-  <head>
-    <meta charset="UTF-8">
-   <!--- <title>Alert Box | CodingLab </title>----->
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/JNDEV03/FLL-WRPOWER/main/assets/Archive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-   </head>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+</style>
+</head>
 <body>
-    <div class="container">
-      <input type="checkbox" id="check">
-      <label class="show_button" for="check">Click Me</label>
-      <div class="background"></div>
-      <div class="alert_box">
-        <div class="icon">
-          <i class="fas fa-exclamation"></i>
-        </div>
-        <header>Confirm</header>
-        <p>Are you sure want to permanently delete this Photo?</p>
-        <div class="btns">
-          <label for="check">Yes, Delete!</label>
-          <label for="check">Cancel</label>
-        </div>
-      </div>
-    </div>
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong>Warning</strong> Thank for visit the website! But now website have be archive by Jn03 ( WrPower Coder ) - ❤️WrPower.
+</div>
+
 </body>
 </html>
 
